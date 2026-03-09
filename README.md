@@ -23,7 +23,6 @@ Tech Used:
 * Deployment: FastAPI, Uvicorn, Pydantic
 
 How to Run the API Locally:
-1. Clone the repository and install dependencies: `pip install -r requirements.txt`
 2. Start the FastAPI server: `python nba_app.py`
 3. Navigate to `http://localhost:8000/docs` to access the interactive Swagger UI and test the `/predict` endpoint.
 
