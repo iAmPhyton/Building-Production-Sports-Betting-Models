@@ -23,8 +23,8 @@ Tech Used:
 * Deployment: FastAPI, Uvicorn, Pydantic
 
 How to Run the API Locally:
-2. Start the FastAPI server: `python nba_app.py`
-3. Navigate to `http://localhost:8000/docs` to access the interactive Swagger UI and test the `/predict` endpoint.
+- Start the FastAPI server: `python nba_app.py`
+- Navigate to `http://localhost:8000/docs` to access the interactive Swagger UI and test the `/predict` endpoint.
 
 Future Enhancements:
 * Integrate real-time odds fetching via external sportsbook APIs.
